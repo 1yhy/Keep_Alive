@@ -1,3 +1,5 @@
+### [uni-app原生插件开发](https://www.yhy.gd.cn/articles/140)
+
 ### 使用方法
 
 在 `script` 中引入组件
