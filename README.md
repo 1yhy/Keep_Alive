@@ -1,4 +1,4 @@
-### [uni-app原生插件开发](https://www.yhy.gd.cn/articles/140)
+### 如何开发uni-app插件,详情请看[uni-app原生插件开发](https://www.yhy.gd.cn/articles/140)
 
 ### 使用方法
 
