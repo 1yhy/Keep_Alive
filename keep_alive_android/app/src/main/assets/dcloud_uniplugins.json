@@ -1,0 +1,13 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "XY-Keep_Alive",
+          "class": "com.example.keep.keepAlive"
+        }
+      ]
+    }
+  ]
+}
